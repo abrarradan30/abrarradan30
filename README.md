@@ -1,5 +1,10 @@
 ### Hi there 👋
+My full name is Abrar Radan Kartiko
+You can call me **"Radan"**, at this moment :
 
+- I'm an undergraduate in information systems at STIKI Malang.
+- Have an interest in a web developer position.
+- Currently, I'm learning about fullstack web developer | PHP | Laravel.
 <!--
 **abrarradan30/abrarradan30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
