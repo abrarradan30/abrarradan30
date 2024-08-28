@@ -3,7 +3,7 @@ My full name is Abrar Radan Kartiko
 
 You can call me **"Radan"**, at this moment :
 
-- I'm an undergraduate in information systems at STIKI Malang.
+- I am an information systems graduate from STIKI Malang.
 - Have an interest in a web developer position.
 - Currently, I'm learning about fullstack web developer | PHP | Laravel.
 
