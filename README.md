@@ -3,9 +3,9 @@ My full name is Abrar Radan Kartiko
 
 You can call me **"Radan"**, at this moment :
 
-- I am an information systems graduate from STIKI Malang.
-- Have an interest in a web developer position.
-- Currently, I'm learning about fullstack web developer | PHP | Laravel.
+- I am an information systems graduate.
+- Interested in web developer | backend developer | software engineer position.
+- The fullstack technology I use is PHP-Laravel.
 
 ### Github Statistic
 <p align="left">
