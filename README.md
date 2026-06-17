@@ -3,7 +3,7 @@ My full name is Abrar Radan Kartiko
 
 You can call me **"Radan"**, at this moment :
 
-Backend Web Developer with professional experience in building and maintaining scalable backend systems using PHP (Laravel) and Express.js. Skilled in developing RESTful APIs, managing business logic, integrating databases and third-party services, and collaborating with frontend teams to ensure performance, security, and code quality.
+Web Developer with experience in building scalable web applications using Laravel, Node.js, Express.js, and Vue.js. Skilled in developing RESTful APIs, database design, business process implementation, third-party integrations, and modern frontend development, with a focus on performance, security, and maintainable code.
 
 ### Github Statistic
 <p align="left">
